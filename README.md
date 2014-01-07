@@ -5,6 +5,6 @@ ArcObjects desktop application to perform a schema comparison between two file g
 
 This application requires ArcObjects and should execute with a valid license of either ArcGIS Desktop or ArcGIS Engine. It has been tested with ArcGIS 10.0 and 10.1.
 
--><img src="screenshot.png" /><-
+<img src="screenshot.png" />
 
 
