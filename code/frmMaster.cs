@@ -1152,7 +1152,7 @@ namespace ArcGISCompare
                         {
                             if (theSF.get_Field(C).Length != theDF.get_Field(theDF.FindField(theFName)).Length)
                             {
-                                TreeNode OID = new TreeNode("Field " + theFName + " mismatched CharacterLength") { ImageIndex = 1, SelectedImageIndex = 1 };
+                                TreeNode OID = new TreeNode("Field " + theFName + " mismatched Character Length") { ImageIndex = 1, SelectedImageIndex = 1 };
                                 //TODO: fix detection of implementation field length
                                 //OID.Nodes.Add(new Guid().ToString(), "Template is " + theSF.get_Field(C).Length.ToString(), 1);
                                 //OID.Nodes.Add(new Guid().ToString(), "Implementation is " + theDF.get_Field(C).Length.ToString(), 1);
